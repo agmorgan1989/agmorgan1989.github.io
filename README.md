@@ -1,5 +1,5 @@
 # fitness_hub_gym
-Fictitious gym website for assessment and personal portfolio
+Gym website for a community gym in South Wales, UK
 
 ## About Fitness Hub Gym
 
