@@ -10,8 +10,12 @@ Founded in 2023, the gym based in Ebbw Vale, Gwent, UK is a fitness and health c
 This project is to build a fully functioning website using HTML, CSS and JS. Within the scope of the website, it includes the following requirements:
 
 • Encouring sign-ups to the gym.
+
 • Clear about us section - including all relevant history of the gym.
+
 • A section to list upcoming events for both members and non-members.
+
 • Clear pricing to be displayed.
+
 • A timetable of activiites within the gym.
 
