@@ -1,9 +1,10 @@
 # fitness_hub_gym
-Gym website for a community gym in South Wales, UK
+
+Website for a community gym in South Wales, UK
 
 ## About Fitness Hub Gym
 
-Founded in 2023, the gym based in Ebbw Vale, Gwent, UK is a fitness and health center for the entire community. Not only are we a gym with all types of specialised equipment, we also have a cafe which is free for non-members and members to attend. The cafe offers healthy eating to encourage a healthier lifestyle.
+Founded in 2023, the gym based in Ebbw Vale, Gwent, UK is a fitness and health center for the entire community. Not only are we a gym with all types of specialised equipment, we also have a cafe which is open for non-members and members to attend. The cafe offers healthy eating to encourage a healthier lifestyle.
 
 ## Project Goals
 
