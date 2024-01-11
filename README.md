@@ -20,6 +20,11 @@ This project is to build a fully functioning website using HTML, CSS and JS. Wit
 
 • A timetable of activiites within the gym.
 
+## Wireframes
+
+<img width="876" alt="index.html wireframe" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/37867a23-c7eb-4661-8773-9b19a6ec9d8f">
+
+
 ## License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
