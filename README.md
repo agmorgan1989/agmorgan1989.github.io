@@ -22,8 +22,11 @@ This project is to build a fully functioning website using HTML, CSS and JS. Wit
 
 ## Wireframes
 
-<img width="876" alt="index.html wireframe" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/37867a23-c7eb-4661-8773-9b19a6ec9d8f">
+### Desktop
 
+<img width="300" alt="index.html wireframe" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/37867a23-c7eb-4661-8773-9b19a6ec9d8f">
+<img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/4e6fee18-8a95-4e07-8c54-7fa713fda5d7">
+<img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/3074962e-6973-4cd3-9ee6-4a726afd661e">
 
 ## License
 
