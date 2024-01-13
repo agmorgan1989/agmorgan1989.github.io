@@ -14,8 +14,6 @@ This project is to build a fully functioning website using HTML, CSS and JS. Wit
 
 • Clear about us section - including all relevant history of the gym.
 
-• A section to list upcoming events for both members and non-members.
-
 • Clear pricing to be displayed.
 
 • A timetable of activiites within the gym.
