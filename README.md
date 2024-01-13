@@ -29,9 +29,8 @@ This project is to build a fully functioning website using HTML, CSS and JS. Wit
 ### Tablet
 
 <img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/5527bca8-2779-4e43-a1d7-d1b73275b03e">
-<img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/d95676f0-f2de-4329-915d-471b4e6ecc2e">
-<img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/1dbe7be9-253e-40cc-a2b8-300630dce60c">
-
+<img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/1a7b915d-443b-49b3-b9db-fc649d27f184">
+<img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/6f63eb07-9cc7-4d53-ba13-1d740ca595fb">
 
 ## License
 
