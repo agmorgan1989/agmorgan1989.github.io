@@ -32,6 +32,12 @@ This project is to build a fully functioning website using HTML, CSS and JS. Wit
 <img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/1a7b915d-443b-49b3-b9db-fc649d27f184">
 <img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/6f63eb07-9cc7-4d53-ba13-1d740ca595fb">
 
+### Mobile
+
+<img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/10b773a8-0afa-4536-965b-89af683e7ed2">
+<img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/9da1141b-51be-4f74-b606-bfa398b39d89">
+<img width="300" alt="image" src="https://github.com/agmorgan1989/fitness_hub_gym/assets/55334835/98626615-2c73-4362-86c2-efd91b951cf2">
+
 ## License
 
 Distributed under the MIT License. See LICENSE.txt for more information.
