@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter");
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: Inter, sans-serif;
+}
+
+#companyLogo {
+    float: left;
+    height: 150px;
+    width: 150px;
+    margin-left: 30px;
+}
+
+#companyName {
+    font-size: 50px;
+    text-decoration: none;
+    line-height: 100px;
+    text-transform: uppercase;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 4px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a:hover {
+    border-bottom: 1px solid slategray;
+}
+
+.active {
+    border-bottom: 1px solid slategray;
+}
+
+footer {
+    height: 100px;
+}
+
+.social {
+    text-align: center;
+}
+
+.social li {
+    display: inline;
+}
+
+.social i {
+    font-size: 150%;
+    margin: 1%;
+    padding: 5%;
+    color: slategray;
+}
+
+
