@@ -10,6 +10,11 @@ body {
     font-family: Inter, sans-serif;
 }
 
+header {
+    background-color: slategray;
+    height: 150px;
+}
+
 #companyLogo {
     float: left;
     height: 150px;
@@ -22,10 +27,12 @@ body {
     text-decoration: none;
     line-height: 100px;
     text-transform: uppercase;
+    color: aliceblue;
 }
 
 #menu a {
     text-decoration: none;
+    color: aliceblue;
 }
 
 #menu {
@@ -40,15 +47,15 @@ body {
 }
 
 #menu a:hover {
-    border-bottom: 1px solid slategray;
+    border-bottom: 1px solid #fafafa;
 }
 
 .active {
-    border-bottom: 1px solid slategray;
+    border-bottom: 1px solid #fafafa;
 }
 
 footer {
-    height: 100px;
+    height: 20px;
 }
 
 .social {
@@ -66,4 +73,17 @@ footer {
     color: slategray;
 }
 
+#homeHero {
+    height: 600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
 
+#homeImage {
+    width: 100%;
+}
+
+#homeText {
+    text-align: center;
+}
