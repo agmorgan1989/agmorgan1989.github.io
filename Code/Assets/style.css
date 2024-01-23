@@ -74,16 +74,13 @@ footer {
 }
 
 #homeHero {
-    height: 600px;
+    height: 20px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
-#homeImage {
-    width: 100%;
-}
-
 #homeText {
     text-align: center;
+    display: inline;
 }
