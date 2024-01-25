@@ -95,6 +95,7 @@ footer {
     border: 5px;
     border-style: ridge;
     border-color: black;
+    display: block;
 }
 
 .sectionHeadings {
@@ -107,3 +108,16 @@ footer {
 .sectionParagraphs {
     padding-left: 20px;
 }
+
+#reasonsToJoin {
+    display: inline;
+}
+
+#reasonsToJoin img {
+    display: inline-flex;
+    height: 300px;
+    border-radius: 50%;
+    background: no-repeat center center;
+    margin-left: 50%;
+}
+
