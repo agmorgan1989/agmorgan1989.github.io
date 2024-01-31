@@ -23,7 +23,7 @@ header {
 }
 
 #companyName {
-    font-size: 50px;
+    font-size: 30px;
     text-decoration: none;
     line-height: 100px;
     text-transform: uppercase;
@@ -115,6 +115,57 @@ header {
     border-radius: 50%;
     background: no-repeat center center;
     margin-left: 50%;
+}
+
+.pageHeadings{
+    height: 150px;
+    text-align: center;
+    font-size: 75px;
+    background-color: grey;
+    letter-spacing: 6px;
+    color: white;
+}
+
+.event{
+    max-width: 300px;
+    margin-top: 20px;
+    margin-left: 30px;
+    border: 2px solid black;
+    padding: 10px
+}
+
+.event h3{
+    text-align: center;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.timeItem{
+    text-align: center;
+    margin-top: 10px;
+    border: 1px solid black;
+}
+
+.timeItem h5{
+    font-size: 18px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+#teamDetails{
+    margin-top: 35px;
+}
+
+.staffMember{
+    max-width: 400px;
+    padding: 20px;
+}
+
+.staffMember h5{
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
 #signUpSection{
