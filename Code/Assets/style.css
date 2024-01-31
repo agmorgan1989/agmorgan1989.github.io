@@ -85,13 +85,13 @@ header {
 }
 
 #aboutUs {
-    width: 500px;
+    width: 750px;
     position: relative;
-    margin-top: 350px;
     border: 5px;
     border-style: ridge;
     border-color: black;
     display: block;
+    margin: 350px auto;
 }
 
 .sectionHeadings {
@@ -110,11 +110,30 @@ header {
 }
 
 #reasonsToJoin img {
-    display: inline-flex;
+    width: 300px;
     height: 300px;
     border-radius: 50%;
-    background: no-repeat center center;
-    margin-left: 50%;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+#reason-1{
+    float: left;
+    width: 33%;
+    text-align: left;
+    padding-left: 20px
+}
+
+#reason-2{
+    float: right;
+    width: 33%;
+    text-align: right;
+    padding-right: 20px;
+}
+
+#reason-3{
+    width: 33%;
+    margin: 0 auto;
 }
 
 .pageHeadings{
@@ -240,6 +259,3 @@ header {
     border-color: blue;
 }
 
-footer {
-    height: 20px;
-}
