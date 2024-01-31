@@ -27,22 +27,43 @@
             </nav>
         </header>
         <h3>Sign-Up</h3>
+        <div id="signUpSection">
+            <div id="whySign">
+                <h4>Why Sign-Up?</h4>
+                <p>
+                    Full access to our gym and cafe during opening hours, with discounted items available
+                    for members in our cafe. One personal trainer induction session free when you first join.
+                    A rolling membership so you can take a break when you need it.
+                    </br>
+                    <strong>Still not convinced? Try a session on us!</strong>
+                </p>
+            </div>
+            <div id="pricing">
+                <h4>Price Plans</h4>
+                <p>
+                    <strong>Yearly Pass:</strong> £200 a year to be paid in full.
+                    <strong>Monthly Pass:</strong> £20 a month, 30 day rolling contract.
+                    <strong>Weekly Pass:</strong> £10 a week, pay as and when needed.
+                    <strong>Daily Pass: </strong> £5 a da, pay as and when needed.
+                </p>
+            </div>
+        </div>
         <div>
-            <h4>Why Sign-Up?</h4>
-            <p>
-                Full access to our gym and cafe during opening hours, with discounted items available
-                for members in our cafe. One personal trainer induction session free when you first join.
-                A rolling membership so you can take a break when you need it.
-                </br>
-                <strong>Still not convinced? Try a session on us!</strong>
-            </p>
-            <h4>Price Plans</h4>
-            <p>
-                <strong>Yearly Pass:</strong> £200 a year to be paid in full.
-                <strong>Monthly Pass:</strong> £20 a month, 30 day rolling contract.
-                <strong>Weekly Pass:</strong> £10 a week, pay as and when needed.
-                <strong>Daily Pass: </strong> £5 a da, pay as and when needed.
-            </p>
+            <form id="signUpForm">
+                <h2>Sign Up Today!</h2>
+                <label for="fname">First Name:</label>
+                <input id="fname" class="text-input" type="text" name="first_name" required/>
+                <label for="lname">Last Name:</label>
+                <input id="lname" class="text-input" type="text" name="last_name" required/>
+                <label for="email">Email Address:</label>
+                <input id="email" class="text-input" type="email" name="email" required/>
+                <label for="password">Password:</label>
+                <input id="password" class="text-input" type="password" name="password" required/>
+                <label for="repeatPassword">Repeat Password:</label>
+                <input id="repeatPassword" class="text-input" type="password" name="passwordCheck" required/>
+                <input class="button" type="reset" value="Reset"/>
+                <input class="button" type="submit" value="Submit"/>
+            </form>
         </div>
     </body>
     <footer>
